@@ -1,0 +1,6 @@
+iOS 14 - 32
+Android 11 (EMUI 12) - 28
+Android 11.x - 26
+iOS 15 - 8
+Android 12.x - 5
+Android 10.x - 1
